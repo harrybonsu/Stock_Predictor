@@ -1,4 +1,4 @@
-![Stock Predictor](static/images/image2.jpg)
+![Stock Predictor](static/images/BTC_Logo.svg.png)
 
 # Final Research project: Predicting stock prices with Machine Learning
 
@@ -8,7 +8,7 @@ The popularity of cryptocurrencies over the past few years has exploded. More an
 
 ## METHODOLOGY
 
-![Stock Predictor](static/images/BTC_Logo.svg.png)
+![Stock Predictor](static/images/image2.jpg)
 In this project, we attempt to conduct technical analysis using price trend and volume indicators. We rely on these variables, based on the assumption that they capture and reflect all public available information and hence focus on statistical analysis of price movements. The objective for our final project is to create a machine learning model to discover and take advantage of trends that can help us predict the future outcome of Bitcoin. Our dataset was obtained from Kaggle.com and it will feed our model over 3.6 million datapoints to learn from. Our work with this model and Bitcoin will become the foundation for future applications. Theoretically, our model can be applied to other cryptocurrencies and equities to help make savvy financial decisions.
 
 The visualizations and dashboard for our project were created using JavaScript and the Plotly.js and D3 libraries. For the machine learning and analysis portion of our project, we used python and jupyter notebook. To view our work and analysis, you can run the included notebooks. 
