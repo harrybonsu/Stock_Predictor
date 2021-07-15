@@ -1,6 +1,6 @@
-![Stock Predictor](static/images/BTC_Logo.svg.png)
-
 # Final Research project: Predicting stock prices with Machine Learning
+
+![Stock Predictor](static/images/BTC_Logo.svg.png)
 
 ## INTRODUCTION
 
